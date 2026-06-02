@@ -1,2 +1,2 @@
-# to-mint
-mint test
+# to-GB
+GB test
